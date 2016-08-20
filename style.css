@@ -31,11 +31,20 @@ nav{
     height: 20px;
     padding: 7px;
     transition: all 0.1s;
+    
 }
 .A i:hover{
     border-bottom:4px solid #0084B4;
     
 }
+.A i:hover  span{
+    color: #0084B4;
+}
+.A i:hover  {
+    color: #0084B4;
+}
+
+
 .Home{
    border: solid 1px;
    width: 80px;
